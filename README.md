@@ -1,9 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sean
 ============================================================================================================================
+
+<html>
+<head>
+<style>
+
 p.small {
   font-variant: small-caps;
 }
+</style>
+</head>
+<body>
+
 <p class="small">engineer / product manager</p>
+
+</body>
+</html>
 -----------------------------
 
 A driven, passionate, and innovative Engineer looking to optimize processes of present and future technologies. I also posses a keen interest for business analytics and machine learning. I continuously challenge myself and utilize my problem solving skills to develop unique solutions for problems that can not only achieve current goals but change the world.
